@@ -29,7 +29,7 @@ const HeroSection = () => {
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 px-4 lg:px-0 justify-center lg:justify-start">
               <Button size="lg" className="hero-gradient hover-glow transition-smooth w-full sm:w-auto" onClick={() => {
               const link = document.createElement('a');
-              link.href = '/lovable-uploads/resume.png';
+              link.href = '/lovable-uploads/17e9d490-222d-49e9-b6f7-31bf3656430f.png';
               link.download = 'Kamalakar_Majji_Resume.png';
               document.body.appendChild(link);
               link.click();
